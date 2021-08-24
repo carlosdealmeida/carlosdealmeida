@@ -10,7 +10,7 @@ IDE Favorita: <img align="center" alt="CJ-VsCode" height="30" width="40" src="ht
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdealmeida&layout=compact&langs_count=10&theme=dark"/>
   </a>
 </div>
-<table width = "791px">
+<table width = "791px" style = "border:0">
   <thead>
     <tr>
       <th colspan="5" style = "text-align:center"><h2>Tecnologias Frontend</h2></th>
