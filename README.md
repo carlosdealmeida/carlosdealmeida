@@ -1,8 +1,9 @@
 ### Olá mundo! Me chamo Carlos Júnior 👋
 
 Marido, Pai e Programador (não necessiariamente nessa ordem rsrsrs)
-
+<br>
 Hobby: Programar, Streamings e jogar Age Of Mythology
+<br>
 IDE Favorita: <img align="center" alt="CJ-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <br>
  <div>
