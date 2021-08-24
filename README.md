@@ -14,7 +14,6 @@ IDE Favorita: <img align="center" alt="CJ-VsCode" height="30" width="40" src="ht
 <h3>
   Tecnologias Front-End
 </h3>
-<br>
 <div>
   <img align="center" alt="CJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,10 +21,10 @@ IDE Favorita: <img align="center" alt="CJ-VsCode" height="30" width="40" src="ht
   <img align="center" alt="CJ-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="CJ-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
 </div>
+<br>
 <h3>
   Tecnologias Back-End
 </h3>
-<br>
 <div style="display: inline_block;">
   <img align="center" alt="CJ-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="CJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -37,7 +36,6 @@ IDE Favorita: <img align="center" alt="CJ-VsCode" height="30" width="40" src="ht
 <h3>
   CI/CD e Versionamento
 </h3>
-<br>
 <div style="display: inline_block;">
   <img align="center" alt="CJ-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="CJ-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
@@ -46,7 +44,6 @@ IDE Favorita: <img align="center" alt="CJ-VsCode" height="30" width="40" src="ht
 <h3>
   Banco de Dados
 </h3>
-<br>
 <div style="display: inline_block;">  
   <img align="center" alt="CJ-Sqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="CJ-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
