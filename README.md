@@ -8,7 +8,7 @@ IDE Favorita: <img align="center" alt="CJ-VsCode" height="30" width="40" src="ht
 <br>
  <div>
   <a href="https://github.com/carlosdealmeida">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdealmeida&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-carlosdealmeida.vercel.app/api?username=carlosdealmeida&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdealmeida&layout=compact&langs_count=10&theme=flag-india"/>
   </a>
 </div>
