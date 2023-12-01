@@ -7,9 +7,9 @@ Hobby: Programar, Streamings e jogar Age Of Mythology
 IDE Favorita: <img align="center" alt="CJ-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <br>
  <div>
-  <a href="https://github.com/carlosdealmeida">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdealmeida&count_private=true&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats-carlosdealmeida.vercel.app/api/top-langs/?username=carlosdealmeida&layout=compact&langs_count=10&theme=flag-india"/>
+  <a href="https://github.com/carlosdealmeida" style = "text-decoration:none;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdealmeida&count_private=true&show_icons=true&theme=radical"  style = "text-decoration:none;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdealmeida&layout=compact&langs_count=10&theme=flag-india"  style = "text-decoration:none;" />
   </a>
 </div>
 <h3>
