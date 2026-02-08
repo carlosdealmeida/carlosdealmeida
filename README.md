@@ -1,4 +1,4 @@
-# Carlos Almeida Jr.
+# Carlos Alberto de Almeida Junior
 
 **Desenvolvedor .NET Senior** | WhatsApp Business API | Omnichannel com IA
 
