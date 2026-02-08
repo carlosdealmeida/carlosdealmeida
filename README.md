@@ -1,53 +1,76 @@
-### Olá mundo! Me chamo Carlos Júnior 👋
+# Carlos Almeida Jr.
 
-Marido, Pai e Programador (não necessiariamente nessa ordem rsrsrs)
-<br>
-Hobby: Programar, Streamings e jogar Age Of Mythology
-<br>
-IDE Favorita: <img align="center" alt="CJ-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<br>
- <div>
-  <a href="https://github.com/carlosdealmeida" style = "text-decoration:none;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdealmeida&count_private=true&show_icons=true&theme=radical"  style = "text-decoration:none;"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdealmeida&layout=compact&langs_count=10&theme=flag-india"  style = "text-decoration:none;" />
-  </a>
-</div>
-<h3>
-  Tecnologias Front-End
-</h3>
-<div>
-  <img align="center" alt="CJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="CJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CJ-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="CJ-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
-</div>
-<br>
-<h3>
-  Tecnologias Back-End
-</h3>
-<div style="display: inline_block;">
-  <img align="center" alt="CJ-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="CJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="CJ-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="CJ-NetCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="CJ-CodeIgniter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
-</div>
-<br>
-<h3>
-  CI/CD e Versionamento
-</h3>
-<div style="display: inline_block;">
-  <img align="center" alt="CJ-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="CJ-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-</div>
-<br>
-<h3>
-  Banco de Dados
-</h3>
-<div style="display: inline_block;">  
-  <img align="center" alt="CJ-Sqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="CJ-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="CJ-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
+**Desenvolvedor .NET Senior** | WhatsApp Business API | Omnichannel com IA
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-almeida-jr)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/carlosdealmeida)
+
+---
+
+Construo plataformas de comunicação omnichannel, chatbots inteligentes e integrações com a WhatsApp Business API. Trabalho com **.NET 9**, **Blazor** e **IA aplicada** para criar sistemas que automatizam atendimento e escalam operações.
+
+Nos últimos anos, venho focando em arquiteturas orientadas a eventos, pipelines de mensageria com IA e componentes open-source para o ecossistema .NET.
+
+---
+
+### O que estou construindo
+
+**Plataforma Omnichannel com IA** — Sistema de atendimento multicanal com WhatsApp Business API, chatbot com fluxos inteligentes, gerenciamento de filas, embeddings vetoriais (pgvector) para contexto conversacional e integração com observabilidade (OpenTelemetry + Datadog).
+
+**[DataGridFast](https://github.com/carlosdealmeida/QuickGrid.Crud)** — Biblioteca Blazor open-source para CRUD genérico com configuração por atributos, export multi-formato (Excel, CSV, PDF, JSON, XML), dashboard builder inspirado no Redash e suporte multi-plataforma (web + Android).
+
+---
+
+### Stack Principal
+
+**Backend & APIs**
+
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET 9](https://img.shields.io/badge/-.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Banco de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**IA & Dados**
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![MudBlazor](https://img.shields.io/badge/-MudBlazor-7E57C2?style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**DevOps & Observabilidade**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+
+**Integrações**
+
+![WhatsApp](https://img.shields.io/badge/-WhatsApp%20Business%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Meta](https://img.shields.io/badge/-Meta%20Webhooks-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+---
+
+### Sobre mim
+
+Marido, pai e programador — não necessariamente nessa ordem. Quando não estou codando, provavelmente estou jogando Age of Mythology ou maratonando alguma série.
+
+**IDE favorita:** VS Code
+
+---
+
+<p align="center">
+  <i>A maior parte do meu trabalho acontece em repositorios privados. Os projetos listados aqui representam iniciativas open-source e experimentos pessoais.</i>
+</p>
