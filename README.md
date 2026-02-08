@@ -40,6 +40,7 @@ Nos últimos anos, venho focando em arquiteturas orientadas a eventos, pipelines
 **IA & Dados**
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
@@ -60,6 +61,14 @@ Nos últimos anos, venho focando em arquiteturas orientadas a eventos, pipelines
 
 ![WhatsApp](https://img.shields.io/badge/-WhatsApp%20Business%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Meta](https://img.shields.io/badge/-Meta%20Webhooks-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+---
+
+### Desenvolvimento com IA
+
+Utilizo **Claude Code (Anthropic)** como par de programação no dia a dia — desde o planejamento de arquitetura e revisão de código até a implementação de features completas e debugging. Essa abordagem de **AI-assisted development** me permite manter alta velocidade de entrega sem abrir mão de qualidade, cobrindo desde a escrita de testes até a documentação técnica de projetos.
+
+Acredito que saber orquestrar agentes de IA e integrar LLMs ao fluxo de trabalho é uma das competências mais relevantes para desenvolvedores hoje.
 
 ---
 
