@@ -17,7 +17,30 @@ Nos últimos anos, venho focando em arquiteturas orientadas a eventos, pipelines
 
 **Plataforma Omnichannel com IA** — Sistema de atendimento multicanal com WhatsApp Business API, chatbot com fluxos inteligentes, gerenciamento de filas, embeddings vetoriais (pgvector) para contexto conversacional e integração com observabilidade (OpenTelemetry + Datadog).
 
-**[DataGridFast](https://github.com/carlosdealmeida/QuickGrid.Crud)** — Biblioteca Blazor open-source para CRUD genérico com configuração por atributos, export multi-formato (Excel, CSV, PDF, JSON, XML), dashboard builder inspirado no Redash e suporte multi-plataforma (web + Android).
+---
+
+### Projetos Open Source
+
+Ferramentas que construo para o ecossistema do **Claude Code** — o mesmo fluxo de AI-assisted development que uso no dia a dia.
+
+**[claude-todos-vscode](https://github.com/carlosdealmeida/claude-todos-vscode)** — Extensão para VS Code que exibe ao vivo o `TodoWrite` do Claude Code, com o agente principal e seus sub-agents lado a lado, isolada por workspace.
+
+![stars](https://img.shields.io/github/stars/carlosdealmeida/claude-todos-vscode?style=flat-square&logo=github&label=stars&color=4C9AFF)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**[ClaudeWatch](https://github.com/carlosdealmeida/claude-watch)** — Widget de desktop para Windows que mostra o consumo da sua assinatura Claude sempre à vista, sem interromper o que você está fazendo.
+
+![versão](https://img.shields.io/github/v/release/carlosdealmeida/claude-watch?style=flat-square&label=vers%C3%A3o&color=3FB950)
+![downloads](https://img.shields.io/github/downloads/carlosdealmeida/claude-watch/total?style=flat-square&label=downloads&color=4C9AFF)
+![stars](https://img.shields.io/github/stars/carlosdealmeida/claude-watch?style=flat-square&logo=github&label=stars&color=4C9AFF)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**[whatsapp-channel-claude](https://github.com/carlosdealmeida/whatsapp-channel-claude)** — Canal WhatsApp para o Claude Code via Evolution API: mande mensagens com o prefixo `/claude` no WhatsApp e elas chegam à sua sessão ativa.
+
+![stars](https://img.shields.io/github/stars/carlosdealmeida/whatsapp-channel-claude?style=flat-square&logo=github&label=stars&color=4C9AFF)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
 ---
 
