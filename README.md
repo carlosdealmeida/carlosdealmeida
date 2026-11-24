@@ -1,108 +1,82 @@
-# Carlos Alberto de Almeida Junior
+# Olá, eu sou o Carlos 👋
 
-**Desenvolvedor .NET Senior** | WhatsApp Business API | Omnichannel com IA
+**Engenheiro de Software Sênior · .NET + SQL Server · ferramentas para o Claude Code**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-almeida-jr)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/carlosdealmeida)
+[![GitHub](https://img.shields.io/github/followers/carlosdealmeida?style=flat-square&logo=github&label=seguidores)](https://github.com/carlosdealmeida)
+
+Construo sistemas que rodam em produção há anos em **saúde suplementar** e **contact center**: APIs em .NET, bancos SQL Server e PostgreSQL afinados à mão, atendimento omnichannel no WhatsApp com IA — e a migração do legado (Access, SQL Server 2000, ASP clássico) para Blazor sem parar a operação.
+
+Nas horas vagas, faço open source para quem trabalha com o **Claude Code**: extensões, controles visuais e a documentação do protocolo que ele usa.
+
+<sub>🇺🇸 Senior .NET engineer & DBA from Brazil. I build production systems for healthcare and contact centers, and open-source tooling for Claude Code. All my projects have English docs.</sub>
 
 ---
 
-Construo plataformas de comunicação omnichannel, chatbots inteligentes e integrações com a WhatsApp Business API. Trabalho com **.NET 9**, **Blazor** e **IA aplicada** para criar sistemas que automatizam atendimento e escalam operações.
+## 🚀 Open source
 
-Nos últimos anos, venho focando em arquiteturas orientadas a eventos, pipelines de mensageria com IA e componentes open-source para o ecossistema .NET.
+### [Claude Todos](https://github.com/carlosdealmeida/claude-todos-vscode) — VS Code e JetBrains
 
----
+A lista de tarefas dos seus agentes do Claude Code, ao vivo: árvore de agentes e sub-agents, tempo por task, tokens, contexto e cache. 100% local, isolada por workspace. Publicada nos três marketplaces, em cinco idiomas.
 
-### O que estou construindo
+[![VS Code](https://vsmarketplacebadges.dev/installs-short/CarlosJunior1992.claude-todos.svg?label=VS%20Code%20installs&color=007ACC&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=CarlosJunior1992.claude-todos)
+[![Open VSX](https://img.shields.io/open-vsx/dt/CarlosJunior1992/claude-todos?style=flat-square&label=Open%20VSX&color=c160ef)](https://open-vsx.org/extension/CarlosJunior1992/claude-todos)
+[![JetBrains](https://img.shields.io/jetbrains/plugin/d/33074-claude-todos?style=flat-square&label=JetBrains&color=fe2857)](https://plugins.jetbrains.com/plugin/33074-claude-todos)
+![stars](https://img.shields.io/github/stars/carlosdealmeida/claude-todos-vscode?style=flat-square&logo=github&label=stars)
 
-**Plataforma Omnichannel com IA** — Sistema de atendimento multicanal com WhatsApp Business API, chatbot com fluxos inteligentes, gerenciamento de filas, embeddings vetoriais (pgvector) para contexto conversacional e integração com observabilidade (OpenTelemetry + Datadog).
+<img src="https://raw.githubusercontent.com/carlosdealmeida/claude-todos-vscode/main/screenshots/claude-todos-demo.gif" width="640" alt="Painel Claude Todos com agentes e tasks avançando ao vivo">
 
----
+### [Claude Visual Chat](https://github.com/carlosdealmeida/claude-visual-chat) — controle Avalonia para .NET
 
-### Projetos Open Source
-
-Ferramentas que construo para o ecossistema do **Claude Code** — o mesmo fluxo de AI-assisted development que uso no dia a dia.
-
-**[claude-todos-vscode](https://github.com/carlosdealmeida/claude-todos-vscode)** — Extensão para VS Code que exibe ao vivo o `TodoWrite` do Claude Code, com o agente principal e seus sub-agents lado a lado, isolada por workspace.
-
-![stars](https://img.shields.io/github/stars/carlosdealmeida/claude-todos-vscode?style=flat-square&logo=github&label=stars&color=4C9AFF)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**[ClaudeWatch](https://github.com/carlosdealmeida/claude-watch)** — Widget de desktop para Windows que mostra o consumo da sua assinatura Claude sempre à vista, sem interromper o que você está fazendo.
-
-![versão](https://img.shields.io/github/v/release/carlosdealmeida/claude-watch?style=flat-square&label=vers%C3%A3o&color=3FB950)
-![downloads](https://img.shields.io/github/downloads/carlosdealmeida/claude-watch/total?style=flat-square&label=downloads&color=4C9AFF)
-![stars](https://img.shields.io/github/stars/carlosdealmeida/claude-watch?style=flat-square&logo=github&label=stars&color=4C9AFF)
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-**[whatsapp-channel-claude](https://github.com/carlosdealmeida/whatsapp-channel-claude)** — Canal WhatsApp para o Claude Code via Evolution API: mande mensagens com o prefixo `/claude` no WhatsApp e elas chegam à sua sessão ativa.
-
-![stars](https://img.shields.io/github/stars/carlosdealmeida/whatsapp-channel-claude?style=flat-square&logo=github&label=stars&color=4C9AFF)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-
----
-
-### Stack Principal
-
-**Backend & APIs**
+Desenha conversas do Claude Code do jeito da extensão oficial — timeline, diffs lado a lado, pedidos de permissão — a partir do stream-json do `claude -p` ou de um arquivo de sessão. Layout desktop e touch. Para quem quer embutir o Claude Code num app .NET.
 
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET 9](https://img.shields.io/badge/-.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Avalonia](https://img.shields.io/badge/-Avalonia-8B44AC?style=flat-square)
+![stars](https://img.shields.io/github/stars/carlosdealmeida/claude-visual-chat?style=flat-square&logo=github&label=stars)
+
+<img src="https://raw.githubusercontent.com/carlosdealmeida/claude-visual-chat/main/docs/screenshot.png" width="640" alt="App de exemplo do Claude Visual Chat reproduzindo uma sessão gravada">
+
+### Mais projetos
+
+| Projeto | O que faz |
+|---|---|
+| [**claude-cli-protocol**](https://github.com/carlosdealmeida/claude-cli-protocol) 🚧 | Especificação, gravações reais e libs (.NET, Delphi) do protocolo stream-json do `claude -p`. Em construção. |
+| [**ClaudeWatch**](https://github.com/carlosdealmeida/claude-watch) | Widget de desktop para Windows com o consumo da assinatura Claude sempre à vista. |
+| [**whatsapp-channel-claude**](https://github.com/carlosdealmeida/whatsapp-channel-claude) | Fale com sua sessão do Claude Code pelo WhatsApp, via Evolution API. |
+
+---
+
+## 🏗️ No trabalho
+
+A maior parte do que faço é privada, mas o tipo de problema é este:
+
+- **Operadora de plano odontológico** — APIs, portais de beneficiário, dentista e corretor, integrações bancárias (Pix, cash management) e a migração gradual de um ERP em Access 97 para Blazor. Conformidade com **LGPD** e exigências da **ANS** em dados de saúde.
+- **Contact center** — plataforma omnichannel sobre a WhatsApp Business API: webhooks da Meta, filas, chatbot com IA, embeddings em pgvector e observabilidade com OpenTelemetry + Datadog.
+- **DBA** — tuning de SQL Server, ETL e manutenção de bases legadas que não podem parar.
+
+---
+
+## 🧰 Stack
+
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET 10](https://img.shields.io/badge/-.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Banco de Dados**
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Avalonia](https://img.shields.io/badge/-Avalonia-8B44AC?style=flat-square)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**IA & Dados**
-
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![MudBlazor](https://img.shields.io/badge/-MudBlazor-7E57C2?style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**DevOps & Observabilidade**
-
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-
-**Integrações**
-
-![WhatsApp](https://img.shields.io/badge/-WhatsApp%20Business%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Meta](https://img.shields.io/badge/-Meta%20Webhooks-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
-### Desenvolvimento com IA
+## 🤖 Como eu trabalho com IA
 
-Utilizo **Claude Code (Anthropic)** como par de programação no dia a dia — desde o planejamento de arquitetura e revisão de código até a implementação de features completas e debugging. Essa abordagem de **AI-assisted development** me permite manter alta velocidade de entrega sem abrir mão de qualidade, cobrindo desde a escrita de testes até a documentação técnica de projetos.
-
-Acredito que saber orquestrar agentes de IA e integrar LLMs ao fluxo de trabalho é uma das competências mais relevantes para desenvolvedores hoje.
+Uso o Claude Code todo dia, mas com método: pendências entram numa caixa de entrada, viram um quadro, passam pelo banco, depois pelo código e só então pelo deploy. Agentes executam; eu decido arquitetura e reviso. Boa parte das ferramentas acima nasceu de lacunas que encontrei nesse fluxo.
 
 ---
 
-### Sobre mim
+## Sobre mim
 
 Marido, pai e programador — não necessariamente nessa ordem. Quando não estou codando, provavelmente estou jogando Age of Mythology ou maratonando alguma série.
-
-**IDE favorita:** VS Code
-
----
-
-<p align="center">
-  <i>A maior parte do meu trabalho acontece em repositorios privados. Os projetos listados aqui representam iniciativas open-source e experimentos pessoais.</i>
-</p>
